@@ -2,18 +2,18 @@
 # Social Media Downloader
 
 **Description:**  
-This Python project provides a versatile solution for downloading media (images and videos) from popular social media platforms, including Instagram, Snapchat, and Twitter. It leverages respective APIs to seamlessly fetch media URLs and offers user-friendly functions for effortless local downloads.
+This Python project provides a convenient way to download media (images and videos) from various social media platforms including Instagram, Snapchat, and Twitter. It utilizes respective APIs to fetch media URLs and provides functions to download them locally.
 
 **Key Features:**
 
 - **Instagram**
   - Download profile pictures of users.
   - Obtain images from Instagram posts.
-  - Capture videos from Instagram reels.
+  - Download videos from Instagram reels.
 
 - **Snapchat**
-  - Access stories from Snapchat users.
-  - Retrieve videos from Snapchat Spotlight.
+  - Download stories from Snapchat users.
+  - Download videos from Snapchat Spotlight.
 
 - **Twitter**
   - Download media (images/videos) from Twitter posts.
